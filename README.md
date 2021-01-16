@@ -11,7 +11,21 @@
 :exclamation:Tip you can make your **\*.md** files look more attractive by using markdown, badges and emojis 
 [markdown](https://guides.github.com/features/mastering-markdown/) | [badges](https://github.com/Naereen/badges) | [badges](https://github.com/Ileriayo/markdown-badges) | [badges](https://gist.github.com/tterb/982ae14a9307b80117dbf49f624ce0e8) | [emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 <br>
-# Install
+
+### :open_file_folder: aTemplate
+Maven project example. Copy this into your folder and change <artifactId>${my_homework}</artifactId>
+To perform code analyse, run 
+```
+mvn verify sonar:sonar
+```
+### :open_file_folder: english
+Materials of the English for Daily standup course
+### :open_file_folder: homework
+Storage for students homework: both java & english
+### :open_file_folder: lecturer
+Lecturer demonstration projects 
+
+# Installations
 
 ## [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 ## [Open Jdk 11](https://mkyong.com/java/what-is-new-in-java-11/)
@@ -19,5 +33,9 @@
 ## [Maven](https://mkyong.com/tutorials/maven-tutorials/)
 ## [Git Client](https://git-scm.com/downloads)
 
-<br><br><br><br><br><br><br><br><br>
+<br>
+# :bulb:
+Tip you can make your **\*.md** files look more attractive by using markdown, badges and emojis 
+[markdown](https://guides.github.com/features/mastering-markdown/) | [badges](https://github.com/Naereen/badges) | [badges](https://github.com/Ileriayo/markdown-badges) | [badges](https://gist.github.com/tterb/982ae14a9307b80117dbf49f624ce0e8) | [emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
 [![JavaGuruBy](https://github-readme-stats.vercel.app/api?username=javaGuruBY&theme=default)](https://moodle.jrr.by/)
