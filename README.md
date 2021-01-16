@@ -1,8 +1,7 @@
-# test [![Generic badge](https://img.shields.io/badge/rpa-S2-green.svg)](https://shields.io/)
+# Robotic process automation [![Generic badge](https://img.shields.io/badge/rpa-S2-green.svg)](https://shields.io/)
 
 
 <h2> <img src="frpa_s2.jpeg" align="right" width="250">
-  Robotic process automation<br>
   Рабочие материалы курса технологий автоматизации бизнес-процессов, основанных на метафорическом программном обеспечении ботов.
 </h2>
 
