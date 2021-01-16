@@ -1,5 +1,5 @@
 # test
 
-<p align="right">
-  <img src="frpa_s2.jpeg" width="150">
-</p>
+
+  <img src="frpa_s2.jpeg" align="right" width="250">
+
