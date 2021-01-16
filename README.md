@@ -33,8 +33,8 @@ Lecturer demonstration projects
 ## :bookmark_tabs: [Maven](https://mkyong.com/tutorials/maven-tutorials/)
 ## :bookmark_tabs: [Git Client](https://git-scm.com/downloads)
 
-<br>
 # :bulb:
+
 Tip you can make your **\*.md** files look more attractive by using markdown, badges and emojis 
 [markdown](https://guides.github.com/features/mastering-markdown/) | [badges](https://github.com/Naereen/badges) | [badges](https://github.com/Ileriayo/markdown-badges) | [badges](https://gist.github.com/tterb/982ae14a9307b80117dbf49f624ce0e8) | [emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
