@@ -27,11 +27,11 @@ Lecturer demonstration projects
 
 # Installations
 
-## [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-## [Open Jdk 11](https://mkyong.com/java/what-is-new-in-java-11/)
-## JAVA_HOME [Linux](https://mkyong.com/java/how-to-add-java_home-on-ubuntu/)|[MacOS](https://mkyong.com/java/how-to-set-java_home-environment-variable-on-mac-os-x/)|[Windows](https://mkyong.com/java/how-to-set-java_home-on-windows-10/)
-## [Maven](https://mkyong.com/tutorials/maven-tutorials/)
-## [Git Client](https://git-scm.com/downloads)
+## :bookmark_tabs: [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+## :bookmark_tabs: [Open Jdk 11](https://mkyong.com/java/what-is-new-in-java-11/)
+## :bookmark_tabs: JAVA_HOME [Linux](https://mkyong.com/java/how-to-add-java_home-on-ubuntu/)|[MacOS](https://mkyong.com/java/how-to-set-java_home-environment-variable-on-mac-os-x/)|[Windows](https://mkyong.com/java/how-to-set-java_home-on-windows-10/)
+## :bookmark_tabs: [Maven](https://mkyong.com/tutorials/maven-tutorials/)
+## :bookmark_tabs: [Git Client](https://git-scm.com/downloads)
 
 <br>
 # :bulb:
