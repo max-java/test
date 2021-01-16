@@ -5,7 +5,7 @@
 [![Generic badge](https://img.shields.io/badge/rpa-S2-fa0000.svg)](https://moodle.jrr.by/)
 
 <h2> <img src="frpa_s2.jpeg" align="right" width="250">
-  Рабочие материалы курса технологий автоматизации бизнес-процессов, основанных на метафорическом программном обеспечении ботов.
+  Materials of the course on technologies for automating business processes based on metaphorical software for bots.
 </h2>
 
 :exclamation:Tip you can make your **\*.md** files look more attractive by using markdown, badges and emojis 
