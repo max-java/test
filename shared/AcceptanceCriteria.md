@@ -3,4 +3,4 @@
 ## java 11
 ## sonarCube selfHosted
 ## Maven
-## MySQl database
+## PostgreSql database
