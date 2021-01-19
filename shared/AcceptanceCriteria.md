@@ -3,4 +3,4 @@
 ## java 11
 ## sonarCube selfHosted
 ## Maven
-## H2 database
+## MySQl database
