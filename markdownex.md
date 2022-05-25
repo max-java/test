@@ -1,7 +1,7 @@
 # Some test
 Some minor text 
 
-```java
+```
 public class Something() {
 } 
 ```
